@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio - Angel Hiram Alvidrez Hernandez</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #f4f4f9; }
+        header { text-align: center; padding: 50px 0; background: #007bff; color: white; border-radius: 10px; margin-bottom: 30px; }
+        h1 { margin: 0; }
+        h2 { border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-top: 40px; }
+        .project { background: white; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .project h3 { margin-top: 0; color: #0056b3; }
+        .btn { display: inline-block; background: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-top: 20px; font-weight: bold; }
+        .btn:hover { background: #218838; }
+        .tags { font-size: 0.9em; color: #666; font-style: italic; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Angel Hiram Alvidrez Hernandez</h1>
+    <p>Ingeniería Mecatrónica | Robótica | Sistemas Embebidos</p>
+    <p>Universidad Autónoma de Ciudad Juárez</p>
+    <a href="Portafolio.pdf" class="btn" target="_blank">📄 Descargar Portafolio Completo (PDF)</a>
+</header>
+
+<section id="about">
+    <h2>Sobre Mí</h2>
+    <p>Estudiante de ingeniería apasionado por la robótica, el control automático y la programación en C++. Con experiencia en el desarrollo de mecanismos complejos, integración de sensores y modernización de sistemas electrónicos.</p>
+</section>
+
+<section id="projects">
+    <h2>Proyectos Destacados</h2>
+
+    <div class="project">
+        <h3>🤖 Bípedo Subactuado (Mecanismo de 5 Barras)</h3>
+        <p>Diseño y construcción de un robot bípedo capaz de caminar de forma autónoma utilizando trayectorias cicloides. Controlado por una Orange Pi (Master) y ESP32 (Slave), integrando fusión de datos con IMU BNO08x para estabilidad.</p>
+        <p class="tags">C++, Python, Cinemática Inversa, ESP32, Orange Pi</p>
+    </div>
+
+    <div class="project">
+        <h3>🔭 Modernización de Telescopio Orión</h3>
+        <p>Actualización de la electrónica de control de un telescopio de 8 pulgadas. Implementación de microcontroladores ESP32 para control de ejes y comunicación con Raspberry Pi para integración con software Stellarium.</p>
+        <p class="tags">IoT, Astronomía, Encoders, Raspberry Pi</p>
+    </div>
+
+    <div class="project">
+        <h3>🔊 Amplificador de Audio con Transistores</h3>
+        <p>Diseño y construcción de un amplificador de audio clase AB utilizando transistores TIP32C y 2N2222A. Análisis de respuesta en frecuencia y gestión térmica.</p>
+        <p class="tags">Electrónica Analógica, Circuitos</p>
+    </div>
+
+    <div class="project">
+        <h3>🚗 Control PID de Posición y Seguidor de Línea</h3>
+        <p>Implementación de algoritmos de control PID para mantener la distancia de un vehículo usando ultrasonido, y desarrollo de un robot autónomo seguidor de línea con lógica PWM.</p>
+        <p class="tags">Control Automático, Arduino/ESP32, Sensores</p>
+    </div>
+    
+     <div class="project">
+        <h3>👏 Interruptor Activado por Aplausos</h3>
+        <p>Sistema de procesamiento de señales analógicas usando OpAmps (TL081) para filtrado pasabanda (3kHz-6kHz) y detección de patrones de sonido para control de potencia (TRIAC).</p>
+        <p class="tags">Procesamiento de Señales, Filtros Activos</p>
+    </div>
+</section>
+
+<footer>
+    <p style="text-align: center; margin-top: 50px; color: #777;">&copy; 2025 Angel Hiram Alvidrez Hernandez - Portafolio Web</p>
+</footer>
+
+</body>
+</html>
