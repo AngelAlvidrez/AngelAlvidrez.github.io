@@ -1,0 +1,2719 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.21)  26 APR 2026 19:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count283
+\float@exts=\toks17
+\float@box=\box53
+\@float@everytoks=\toks18
+\@floatcapt=\box54
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count284
+)
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count285
+)
+(/usr/share/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen149
+\Hy@linkcounter=\count286
+\Hy@pagecounter=\count287
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count288
+
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count289
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen150
+
+(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count290
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count291
+\c@Item=\count292
+\c@Hfootnote=\count293
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
+\Fld@listcount=\count294
+\c@bookmark@seq@number=\count295
+
+(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip51
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 10.
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+(/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen155
+\captionmargin=\dimen156
+\caption@leftmargin=\dimen157
+\caption@rightmargin=\dimen158
+\caption@width=\dimen159
+\caption@indent=\dimen160
+\caption@parindent=\dimen161
+\caption@hangindent=\dimen162
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count296
+\c@continuedfloat=\count297
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count298
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count299
+)
+(/usr/share/texmf-dist/tex/latex/circuitikz/circuitikz.sty
+Package: circuitikz 2026/02/04{} The CircuiTikz circuit drawing package version
+ 1.8.5
+
+(/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen163
+\pgfutil@tempdimb=\dimen164
+)
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box55
+)
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.te
+x
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen165
+\pgf@y=\dimen166
+\pgf@xa=\dimen167
+\pgf@ya=\dimen168
+\pgf@xb=\dimen169
+\pgf@yb=\dimen170
+\pgf@xc=\dimen171
+\pgf@yc=\dimen172
+\pgf@xd=\dimen173
+\pgf@yd=\dimen174
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count300
+\c@pgf@countb=\count301
+\c@pgf@countc=\count302
+\c@pgf@countd=\count303
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count304
+ (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count305
+\pgfsyssoftpath@bigbuffer@items=\count306
+)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen175
+\pgfmath@count=\count307
+\pgfmath@box=\box56
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count308
+))
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen176
+\pgf@picmaxx=\dimen177
+\pgf@picminy=\dimen178
+\pgf@picmaxy=\dimen179
+\pgf@pathminx=\dimen180
+\pgf@pathmaxx=\dimen181
+\pgf@pathminy=\dimen182
+\pgf@pathmaxy=\dimen183
+\pgf@xx=\dimen184
+\pgf@xy=\dimen185
+\pgf@yx=\dimen186
+\pgf@yy=\dimen187
+\pgf@zx=\dimen188
+\pgf@zy=\dimen189
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen190
+\pgf@path@lasty=\dimen191
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen192
+\pgf@shorten@start@additional=\dimen193
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count309
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen194
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen195
+\pgf@pt@y=\dimen196
+\pgf@pt@temp=\dimen197
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen198
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen199
+\pgf@sys@shading@range@num=\count310
+\pgf@shadingcount=\count311
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box60
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box61
+)
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen256
+\pgf@nodesepend=\dimen257
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen258
+\pgffor@skip=\dimen259
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count312
+\pgfplotmarksize=\dimen260
+)
+\tikz@lastx=\dimen261
+\tikz@lasty=\dimen262
+\tikz@lastxsaved=\dimen263
+\tikz@lastysaved=\dimen264
+\tikz@lastmovetox=\dimen265
+\tikz@lastmovetoy=\dimen266
+\tikzleveldistance=\dimen267
+\tikzsiblingdistance=\dimen268
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count313
+\tikznumberofchildren=\count314
+\tikznumberofcurrentchild=\count315
+\tikz@fig@count=\count316
+ (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count317
+\pgfmatrixcurrentcolumn=\count318
+\pgf@matrix@numberofcolumns=\count319
+)
+\tikz@expandcount=\count320
+
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+calc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen269
+\pgfarrowlength=\dimen270
+\pgfarrowwidth=\dimen271
+\pgfarrowlinewidth=\dimen272
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+bending.code.tex
+File: tikzlibrarybending.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulebending.code.tex
+File: pgfmodulebending.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulenonlineartransformation
+s.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgftransformnonlinearflatness=\dimen273
+)
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@curvilinear@time@a=\dimen274
+\pgf@curvilinear@length@a=\dimen275
+\pgf@curvilinear@length@b=\dimen276
+\pgf@curvilinear@length@c=\dimen277
+\pgf@curvilinear@length@d=\dimen278
+)
+\pgf@arrows@the@rigidity=\dimen279
+))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+fpu.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex))
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
+\pgf@circ@count@a=\count321
+\pgf@circ@count@b=\count322
+\pgf@circ@count@c=\count323
+\pgf@circ@res@up=\dimen280
+\pgf@circ@res@down=\dimen281
+\pgf@circ@res@zero=\dimen282
+\pgf@circ@res@left=\dimen283
+\pgf@circ@res@right=\dimen284
+\pgf@circ@res@other=\dimen285
+\pgf@circ@res@step=\dimen286
+\pgf@circ@res@temp=\dimen287
+\pgf@circ@Rlen=\dimen288
+\pgf@circ@scaled@Rlen=\dimen289
+\pgfstartlinewidth=\dimen290
+)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex
+\ctikz@scratchbox=\box66
+)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex
+\ctikz@vif@count=\count324
+)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex
+\pgf@circ@res@count=\count325
+)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircmultipoles.tex)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex
+\pgfcirc@labelshift=\dimen291
+)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex)
+(/usr/share/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex))
+(/usr/share/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language6
+LaTeX Info: Redefining \_ on input line 43.
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/02/14 v26.3 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
+\babel@savecnt=\count326
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2111.
+\U@D=\dimen292
+\l@unhyphenated=\language7
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count327
+
+(/usr/share/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 4330.
+
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
+))
+(/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count328
+\calc@Bcount=\count329
+\calc@Adimen=\dimen293
+\calc@Bdimen=\dimen294
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count330
+\calc@Cskip=\skip54
+)
+(/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
+\ESO@tempdima=\dimen295
+\ESO@tempdimb=\dimen296
+)
+\AM@pagewidth=\dimen297
+\AM@pageheight=\dimen298
+\AM@fboxrule=\dimen299
+
+(/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count331
+\AM@pagebox=\box67
+\AM@global@opts=\toks32
+\AM@pagecnt=\count332
+\AM@toc@title=\toks33
+\AM@lof@heading=\toks34
+\c@AM@survey=\count333
+\AM@templatesizebox=\box68
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count334
+) (./main.aux
+(./Sections/1-Title.aux) (./Sections/Contenido.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+Package hyperref Info: Link coloring ON on input line 21.
+ (./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count335
+\scratchdimen=\dimen300
+\scratchbox=\box69
+\nofMPsegments=\count336
+\nofMParguments=\count337
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count338
+\MPscratchDim=\dimen301
+\MPnumerator=\count339
+\makeMPintoPDFobject=\count340
+\everyMPtoPDFconversion=\toks36
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2025-06-23 v0.14 Display of landscape pages in PDF
+
+(/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2025-06-23 v0.14 Display of landscape pages in PD
+F (HO)
+
+(/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+\openout2 = `Sections/1-Title.aux'.
+
+ (./Sections/1-Title.tex
+<Images/UACJ.png, id=71, 892.33376pt x 697.60625pt>
+File: Images/UACJ.png Graphic file (type png)
+<use Images/UACJ.png>
+Package pdftex.def Info: Images/UACJ.png  used on input line 11.
+(pdftex.def)             Requested size: 284.52756pt x 222.44022pt.
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/UACJ.png>])
+\openout2 = `Sections/Contenido.aux'.
+
+
+(./Sections/Contenido.tex (./main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+
+Overfull \hbox (10.05629pt too wide) in paragraph at lines 17--17
+ [][] [][]\OT1/cmr/m/n/10 Ar-ti-cle un-der re-view: Kine-matic Mod-elling of Fi
+ve-Bar Bipedal Lo-co-mo-tion[][] [][]  
+ []
+
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.2 \newpage
+             [1
+
+
+
+]
+<ConstanciaOAN.png, id=102, 614.295pt x 845.559pt>
+File: ConstanciaOAN.png Graphic file (type png)
+<use ConstanciaOAN.png>
+Package pdftex.def Info: ConstanciaOAN.png  used on input line 10.
+(pdftex.def)             Requested size: 614.29349pt x 845.55695pt.
+File: ConstanciaOAN.png Graphic file (type png)
+<use ConstanciaOAN.png>
+Package pdftex.def Info: ConstanciaOAN.png  used on input line 10.
+(pdftex.def)             Requested size: 614.29349pt x 845.55695pt.
+File: ConstanciaOAN.png Graphic file (type png)
+<use ConstanciaOAN.png>
+Package pdftex.def Info: ConstanciaOAN.png  used on input line 10.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ConstanciaOAN.png Graphic file (type png)
+<use ConstanciaOAN.png>
+Package pdftex.def Info: ConstanciaOAN.png  used on input line 10.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ConstanciaOAN.png Graphic file (type png)
+<use ConstanciaOAN.png>
+Package pdftex.def Info: ConstanciaOAN.png  used on input line 10.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ConstanciaOAN.png Graphic file (type png)
+<use ConstanciaOAN.png>
+Package pdftex.def Info: ConstanciaOAN.png  used on input line 10.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+ [2
+
+ <./ConstanciaOAN.png>]
+<ConstanciaSemiconductores.png, id=108, 614.295pt x 845.559pt>
+File: ConstanciaSemiconductores.png Graphic file (type png)
+<use ConstanciaSemiconductores.png>
+Package pdftex.def Info: ConstanciaSemiconductores.png  used on input line 14.
+(pdftex.def)             Requested size: 614.29349pt x 845.55695pt.
+File: ConstanciaSemiconductores.png Graphic file (type png)
+<use ConstanciaSemiconductores.png>
+Package pdftex.def Info: ConstanciaSemiconductores.png  used on input line 14.
+(pdftex.def)             Requested size: 614.29349pt x 845.55695pt.
+File: ConstanciaSemiconductores.png Graphic file (type png)
+<use ConstanciaSemiconductores.png>
+Package pdftex.def Info: ConstanciaSemiconductores.png  used on input line 14.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ConstanciaSemiconductores.png Graphic file (type png)
+<use ConstanciaSemiconductores.png>
+Package pdftex.def Info: ConstanciaSemiconductores.png  used on input line 14.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ConstanciaSemiconductores.png Graphic file (type png)
+<use ConstanciaSemiconductores.png>
+Package pdftex.def Info: ConstanciaSemiconductores.png  used on input line 14.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ConstanciaSemiconductores.png Graphic file (type png)
+<use ConstanciaSemiconductores.png>
+Package pdftex.def Info: ConstanciaSemiconductores.png  used on input line 14.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+ [3
+
+ <./ConstanciaSemiconductores.png>]
+<ReconocimientoEstudianteIntegral.png, id=114, 614.295pt x 845.559pt>
+File: ReconocimientoEstudianteIntegral.png Graphic file (type png)
+<use ReconocimientoEstudianteIntegral.png>
+Package pdftex.def Info: ReconocimientoEstudianteIntegral.png  used on input li
+ne 18.
+(pdftex.def)             Requested size: 614.29349pt x 845.55695pt.
+File: ReconocimientoEstudianteIntegral.png Graphic file (type png)
+<use ReconocimientoEstudianteIntegral.png>
+Package pdftex.def Info: ReconocimientoEstudianteIntegral.png  used on input li
+ne 18.
+(pdftex.def)             Requested size: 614.29349pt x 845.55695pt.
+File: ReconocimientoEstudianteIntegral.png Graphic file (type png)
+<use ReconocimientoEstudianteIntegral.png>
+Package pdftex.def Info: ReconocimientoEstudianteIntegral.png  used on input li
+ne 18.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ReconocimientoEstudianteIntegral.png Graphic file (type png)
+<use ReconocimientoEstudianteIntegral.png>
+Package pdftex.def Info: ReconocimientoEstudianteIntegral.png  used on input li
+ne 18.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ReconocimientoEstudianteIntegral.png Graphic file (type png)
+<use ReconocimientoEstudianteIntegral.png>
+Package pdftex.def Info: ReconocimientoEstudianteIntegral.png  used on input li
+ne 18.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ReconocimientoEstudianteIntegral.png Graphic file (type png)
+<use ReconocimientoEstudianteIntegral.png>
+Package pdftex.def Info: ReconocimientoEstudianteIntegral.png  used on input li
+ne 18.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+ [4
+
+ <./ReconocimientoEstudianteIntegral.png>]
+<ReconocimientoConfSolosUniverso.png, id=120, 614.295pt x 845.559pt>
+File: ReconocimientoConfSolosUniverso.png Graphic file (type png)
+<use ReconocimientoConfSolosUniverso.png>
+Package pdftex.def Info: ReconocimientoConfSolosUniverso.png  used on input lin
+e 22.
+(pdftex.def)             Requested size: 614.29349pt x 845.55695pt.
+File: ReconocimientoConfSolosUniverso.png Graphic file (type png)
+<use ReconocimientoConfSolosUniverso.png>
+Package pdftex.def Info: ReconocimientoConfSolosUniverso.png  used on input lin
+e 22.
+(pdftex.def)             Requested size: 614.29349pt x 845.55695pt.
+File: ReconocimientoConfSolosUniverso.png Graphic file (type png)
+<use ReconocimientoConfSolosUniverso.png>
+Package pdftex.def Info: ReconocimientoConfSolosUniverso.png  used on input lin
+e 22.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ReconocimientoConfSolosUniverso.png Graphic file (type png)
+<use ReconocimientoConfSolosUniverso.png>
+Package pdftex.def Info: ReconocimientoConfSolosUniverso.png  used on input lin
+e 22.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ReconocimientoConfSolosUniverso.png Graphic file (type png)
+<use ReconocimientoConfSolosUniverso.png>
+Package pdftex.def Info: ReconocimientoConfSolosUniverso.png  used on input lin
+e 22.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ReconocimientoConfSolosUniverso.png Graphic file (type png)
+<use ReconocimientoConfSolosUniverso.png>
+Package pdftex.def Info: ReconocimientoConfSolosUniverso.png  used on input lin
+e 22.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+ [5
+
+ <./ReconocimientoConfSolosUniverso.png>]
+<ReconocimientoConfMuertesUniverso.png, id=126, 614.295pt x 845.559pt>
+File: ReconocimientoConfMuertesUniverso.png Graphic file (type png)
+<use ReconocimientoConfMuertesUniverso.png>
+Package pdftex.def Info: ReconocimientoConfMuertesUniverso.png  used on input l
+ine 26.
+(pdftex.def)             Requested size: 614.29349pt x 845.55695pt.
+File: ReconocimientoConfMuertesUniverso.png Graphic file (type png)
+<use ReconocimientoConfMuertesUniverso.png>
+Package pdftex.def Info: ReconocimientoConfMuertesUniverso.png  used on input l
+ine 26.
+(pdftex.def)             Requested size: 614.29349pt x 845.55695pt.
+File: ReconocimientoConfMuertesUniverso.png Graphic file (type png)
+<use ReconocimientoConfMuertesUniverso.png>
+Package pdftex.def Info: ReconocimientoConfMuertesUniverso.png  used on input l
+ine 26.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ReconocimientoConfMuertesUniverso.png Graphic file (type png)
+<use ReconocimientoConfMuertesUniverso.png>
+Package pdftex.def Info: ReconocimientoConfMuertesUniverso.png  used on input l
+ine 26.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ReconocimientoConfMuertesUniverso.png Graphic file (type png)
+<use ReconocimientoConfMuertesUniverso.png>
+Package pdftex.def Info: ReconocimientoConfMuertesUniverso.png  used on input l
+ine 26.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+File: ReconocimientoConfMuertesUniverso.png Graphic file (type png)
+<use ReconocimientoConfMuertesUniverso.png>
+Package pdftex.def Info: ReconocimientoConfMuertesUniverso.png  used on input l
+ine 26.
+(pdftex.def)             Requested size: 597.78697pt x 822.83621pt.
+ [6
+
+ <./ReconocimientoConfMuertesUniverso.png>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=133, 614.295pt x 794.97pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf  used on i
+nput line 34.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<ProyectoSemestral_MotoresyControladores.pdf, id=135, page=1, 614.295pt x 794.9
+7pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 1>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page1 us
+ed on input line 34.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 1>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page1 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 1>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page1 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 1>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page1 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 1>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page1 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [7
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=145, page=2, 614.295pt x 794.9
+7pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 2>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page2 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 2>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page2 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 2>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page2 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [8
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=155, page=3, 614.295pt x 794.9
+7pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 3>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page3 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 3>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page3 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 3>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page3 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [9
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=165, page=4, 614.295pt x 794.9
+7pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 4>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page4 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 4>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page4 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 4>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page4 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [10
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=175, page=5, 614.295pt x 794.9
+7pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 5>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page5 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 5>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page5 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 5>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page5 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [11
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=184, page=6, 614.295pt x 794.9
+7pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 6>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page6 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 6>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page6 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 6>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page6 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [12
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=194, page=7, 614.295pt x 794.9
+7pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 7>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page7 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 7>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page7 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 7>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page7 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [13
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=203, page=8, 614.295pt x 794.9
+7pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 8>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page8 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 8>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page8 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 8>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page8 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [14
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=213, page=9, 614.295pt x 794.9
+7pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 9>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page9 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 9>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page9 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 9>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page9 us
+ed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [15
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=223, page=10, 614.295pt x 794.
+97pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 10>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page10 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 10>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page10 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 10>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page10 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [16
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=233, page=11, 614.295pt x 794.
+97pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 11>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page11 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 11>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page11 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 11>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page11 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [17
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=243, page=12, 614.295pt x 794.
+97pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 12>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page12 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 12>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page12 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 12>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page12 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [18
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=254, page=13, 614.295pt x 794.
+97pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 13>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page13 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 13>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page13 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 13>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page13 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [19
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=264, page=14, 614.295pt x 794.
+97pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 14>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page14 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 14>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page14 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 14>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page14 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [20
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=274, page=15, 614.295pt x 794.
+97pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 15>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page15 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 15>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page15 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 15>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page15 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [21
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<ProyectoSemestral_MotoresyControladores.pdf, id=283, page=16, 614.295pt x 794.
+97pt>
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 16>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page16 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 16>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page16 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: ProyectoSemestral_MotoresyControladores.pdf Graphic file (type pdf)
+<use ProyectoSemestral_MotoresyControladores.pdf, page 16>
+Package pdftex.def Info: ProyectoSemestral_MotoresyControladores.pdf , page16 u
+sed on input line 34.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [22
+
+ <./ProyectoSemestral_MotoresyControladores.pdf>]
+<telescopio.pdf, id=293, 614.295pt x 794.97pt>
+File: telescopio.pdf Graphic file (type pdf)
+<use telescopio.pdf>
+Package pdftex.def Info: telescopio.pdf  used on input line 38.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<telescopio.pdf, id=295, page=1, 614.295pt x 794.97pt>
+File: telescopio.pdf Graphic file (type pdf)
+<use telescopio.pdf, page 1>
+Package pdftex.def Info: telescopio.pdf , page1 used on input line 38.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: telescopio.pdf Graphic file (type pdf)
+<use telescopio.pdf, page 1>
+Package pdftex.def Info: telescopio.pdf , page1 used on input line 38.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: telescopio.pdf Graphic file (type pdf)
+<use telescopio.pdf, page 1>
+Package pdftex.def Info: telescopio.pdf , page1 used on input line 38.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: telescopio.pdf Graphic file (type pdf)
+<use telescopio.pdf, page 1>
+Package pdftex.def Info: telescopio.pdf , page1 used on input line 38.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: telescopio.pdf Graphic file (type pdf)
+<use telescopio.pdf, page 1>
+Package pdftex.def Info: telescopio.pdf , page1 used on input line 38.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [23
+
+ <./telescopio.pdf>]
+<amplificador.pdf, id=305, 614.295pt x 794.97pt>
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf>
+Package pdftex.def Info: amplificador.pdf  used on input line 42.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<amplificador.pdf, id=307, page=1, 614.295pt x 794.97pt>
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 1>
+Package pdftex.def Info: amplificador.pdf , page1 used on input line 42.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 1>
+Package pdftex.def Info: amplificador.pdf , page1 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 1>
+Package pdftex.def Info: amplificador.pdf , page1 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 1>
+Package pdftex.def Info: amplificador.pdf , page1 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 1>
+Package pdftex.def Info: amplificador.pdf , page1 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [24
+
+ <./amplificador.pdf>]
+<amplificador.pdf, id=345, page=2, 614.295pt x 794.97pt>
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 2>
+Package pdftex.def Info: amplificador.pdf , page2 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 2>
+Package pdftex.def Info: amplificador.pdf , page2 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 2>
+Package pdftex.def Info: amplificador.pdf , page2 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [25
+
+ <./amplificador.pdf>]
+<amplificador.pdf, id=398, page=3, 614.295pt x 794.97pt>
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 3>
+Package pdftex.def Info: amplificador.pdf , page3 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 3>
+Package pdftex.def Info: amplificador.pdf , page3 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 3>
+Package pdftex.def Info: amplificador.pdf , page3 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [26
+
+ <./amplificador.pdf>]
+<amplificador.pdf, id=426, page=4, 614.295pt x 794.97pt>
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 4>
+Package pdftex.def Info: amplificador.pdf , page4 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 4>
+Package pdftex.def Info: amplificador.pdf , page4 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 4>
+Package pdftex.def Info: amplificador.pdf , page4 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [27
+
+ <./amplificador.pdf>]
+<amplificador.pdf, id=450, page=5, 614.295pt x 794.97pt>
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 5>
+Package pdftex.def Info: amplificador.pdf , page5 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 5>
+Package pdftex.def Info: amplificador.pdf , page5 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: amplificador.pdf Graphic file (type pdf)
+<use amplificador.pdf, page 5>
+Package pdftex.def Info: amplificador.pdf , page5 used on input line 42.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [28
+
+ <./amplificador.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=459, 597.23125pt x 844.15375pt>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf  used on input lin
+e 46.
+(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+<Control_de_Posicion_Carrito_PID.pdf, id=461, page=1, 597.23125pt x 844.15375pt
+>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 1>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page1 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 1>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page1 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 1>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page1 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 1>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page1 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 1>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page1 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [29
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=470, page=2, 597.23125pt x 844.15375pt
+>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 2>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page2 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 2>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page2 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 2>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page2 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+
+[30
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=479, page=3, 597.23125pt x 844.15375pt
+>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 3>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page3 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 3>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page3 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 3>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page3 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [31
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=487, page=4, 597.23125pt x 844.15375pt
+>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 4>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page4 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 4>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page4 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 4>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page4 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [32
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=495, page=5, 597.23125pt x 844.15375pt
+>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 5>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page5 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 5>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page5 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 5>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page5 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [33
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=504, page=6, 597.23125pt x 844.15375pt
+>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 6>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page6 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 6>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page6 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 6>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page6 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [34
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=512, page=7, 597.23125pt x 844.15375pt
+>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 7>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page7 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 7>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page7 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 7>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page7 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [35
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=520, page=8, 597.23125pt x 844.15375pt
+>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 8>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page8 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 8>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page8 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 8>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page8 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [36
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=529, page=9, 597.23125pt x 844.15375pt
+>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 9>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page9 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 9>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page9 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 9>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page9 used on in
+put line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+
+[37
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=537, page=10, 597.23125pt x 844.15375p
+t>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 10>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page10 used on i
+nput line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 10>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page10 used on i
+nput line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 10>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page10 used on i
+nput line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [38
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=545, page=11, 597.23125pt x 844.15375p
+t>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 11>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page11 used on i
+nput line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 11>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page11 used on i
+nput line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 11>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page11 used on i
+nput line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [39
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Control_de_Posicion_Carrito_PID.pdf, id=553, page=12, 597.23125pt x 844.15375p
+t>
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 12>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page12 used on i
+nput line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 12>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page12 used on i
+nput line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Control_de_Posicion_Carrito_PID.pdf Graphic file (type pdf)
+<use Control_de_Posicion_Carrito_PID.pdf, page 12>
+Package pdftex.def Info: Control_de_Posicion_Carrito_PID.pdf , page12 used on i
+nput line 46.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [40
+
+ <./Control_de_Posicion_Carrito_PID.pdf>]
+<Carrito_Seugidor_de_lineas.pdf, id=561, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf  used on input line 50.
+
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<Carrito_Seugidor_de_lineas.pdf, id=563, page=1, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 1>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page1 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 1>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page1 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 1>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page1 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 1>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page1 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 1>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page1 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [41
+
+ <./Carrito_Seugidor_de_lineas.pdf>]
+<Carrito_Seugidor_de_lineas.pdf, id=602, page=2, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 2>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page2 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 2>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page2 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 2>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page2 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [42
+
+ <./Carrito_Seugidor_de_lineas.pdf>]
+<Carrito_Seugidor_de_lineas.pdf, id=617, page=3, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 3>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page3 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 3>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page3 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 3>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page3 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [43
+
+ <./Carrito_Seugidor_de_lineas.pdf>]
+<Carrito_Seugidor_de_lineas.pdf, id=623, page=4, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 4>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page4 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 4>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page4 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 4>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page4 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [44
+
+ <./Carrito_Seugidor_de_lineas.pdf>]
+<Carrito_Seugidor_de_lineas.pdf, id=633, page=5, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 5>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page5 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 5>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page5 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 5>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page5 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [45
+
+ <./Carrito_Seugidor_de_lineas.pdf>]
+<Carrito_Seugidor_de_lineas.pdf, id=640, page=6, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 6>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page6 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 6>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page6 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 6>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page6 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [46
+
+ <./Carrito_Seugidor_de_lineas.pdf>]
+<Carrito_Seugidor_de_lineas.pdf, id=649, page=7, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 7>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page7 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 7>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page7 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 7>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page7 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [47
+
+ <./Carrito_Seugidor_de_lineas.pdf>]
+<Carrito_Seugidor_de_lineas.pdf, id=685, page=8, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 8>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page8 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 8>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page8 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 8>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page8 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [48
+
+ <./Carrito_Seugidor_de_lineas.pdf>]
+<Carrito_Seugidor_de_lineas.pdf, id=696, page=9, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 9>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page9 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 9>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page9 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 9>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page9 used on input l
+ine 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [49
+
+ <./Carrito_Seugidor_de_lineas.pdf>]
+<Carrito_Seugidor_de_lineas.pdf, id=702, page=10, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 10>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page10 used on input 
+line 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 10>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page10 used on input 
+line 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 10>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page10 used on input 
+line 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [50
+
+ <./Carrito_Seugidor_de_lineas.pdf>]
+<Carrito_Seugidor_de_lineas.pdf, id=709, page=11, 597.50829pt x 845.0471pt>
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 11>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page11 used on input 
+line 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 11>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page11 used on input 
+line 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: Carrito_Seugidor_de_lineas.pdf Graphic file (type pdf)
+<use Carrito_Seugidor_de_lineas.pdf, page 11>
+Package pdftex.def Info: Carrito_Seugidor_de_lineas.pdf , page11 used on input 
+line 50.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [51
+
+ <./Carrito_Seugidor_de_lineas.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=715, 597.23125pt x 844.15375p
+t>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf  used on 
+input line 54.
+(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=717, page=1, 597.23125pt x 84
+4.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 1>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page1 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 1>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page1 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 1>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page1 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 1>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page1 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 1>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page1 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [52
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=726, page=2, 597.23125pt x 84
+4.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 2>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page2 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 2>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page2 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 2>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page2 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [53
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=734, page=3, 597.23125pt x 84
+4.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 3>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page3 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 3>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page3 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 3>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page3 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [54
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=743, page=4, 597.23125pt x 84
+4.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 4>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page4 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 4>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page4 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 4>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page4 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [55
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=751, page=5, 597.23125pt x 84
+4.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 5>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page5 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 5>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page5 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 5>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page5 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [56
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=759, page=6, 597.23125pt x 84
+4.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 6>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page6 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 6>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page6 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 6>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page6 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [57
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=767, page=7, 597.23125pt x 84
+4.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 7>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page7 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 7>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page7 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 7>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page7 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+
+[58
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=775, page=8, 597.23125pt x 84
+4.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 8>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page8 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 8>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page8 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 8>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page8 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [59
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=783, page=9, 597.23125pt x 84
+4.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 9>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page9 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 9>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page9 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 9>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page9 u
+sed on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [60
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=792, page=10, 597.23125pt x 8
+44.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 10>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page10 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 10>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page10 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 10>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page10 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [61
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=800, page=11, 597.23125pt x 8
+44.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 11>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page11 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 11>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page11 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 11>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page11 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [62
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=808, page=12, 597.23125pt x 8
+44.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 12>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page12 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 12>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page12 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 12>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page12 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [63
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=816, page=13, 597.23125pt x 8
+44.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 13>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page13 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 13>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page13 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 13>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page13 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [64
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=824, page=14, 597.23125pt x 8
+44.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 14>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page14 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 14>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page14 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 14>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page14 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [65
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=832, page=15, 597.23125pt x 8
+44.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 15>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page15 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 15>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page15 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 15>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page15 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [66
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, id=841, page=16, 597.23125pt x 8
+44.15375pt>
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 16>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page16 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 16>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page16 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf Graphic file (type pdf)
+<use Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf, page 16>
+Package pdftex.def Info: Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf , page16 
+used on input line 54.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [67
+
+ <./Sensor_De_Aplausos_Apagado_Prendido_Foco.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=850, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf  used on input line 58.
+(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+<Sistema_De_Riego_IOT.pdf, id=852, page=1, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 1>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page1 used on input line 58
+.
+(pdftex.def)             Requested size: 597.22978pt x 844.15169pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 1>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page1 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 1>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page1 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 1>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page1 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 1>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page1 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [68
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=861, page=2, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 2>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page2 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 2>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page2 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 2>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page2 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [69
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=869, page=3, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 3>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page3 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 3>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page3 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 3>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page3 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [70
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=877, page=4, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 4>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page4 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 4>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page4 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 4>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page4 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [71
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=885, page=5, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 5>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page5 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 5>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page5 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 5>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page5 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [72
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=894, page=6, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 6>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page6 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 6>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page6 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 6>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page6 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+
+[73
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=902, page=7, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 7>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page7 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 7>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page7 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 7>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page7 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [74
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=910, page=8, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 8>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page8 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 8>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page8 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 8>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page8 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [75
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=918, page=9, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 9>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page9 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 9>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page9 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 9>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page9 used on input line 58
+.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [76
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=926, page=10, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 10>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page10 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 10>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page10 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 10>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page10 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [77
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=934, page=11, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 11>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page11 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 11>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page11 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 11>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page11 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [78
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=943, page=12, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 12>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page12 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 12>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page12 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 12>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page12 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [79
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=951, page=13, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 13>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page13 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 13>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page13 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 13>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page13 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+[80
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=959, page=14, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 14>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page14 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 14>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page14 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 14>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page14 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [81
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=967, page=15, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 15>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page15 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 15>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page15 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 15>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page15 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [82
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=975, page=16, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 16>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page16 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 16>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page16 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 16>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page16 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [83
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=983, page=17, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 17>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page17 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 17>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page17 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 17>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page17 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [84
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=992, page=18, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 18>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page18 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 18>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page18 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 18>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page18 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [85
+
+ <./Sistema_De_Riego_IOT.pdf>]
+<Sistema_De_Riego_IOT.pdf, id=1000, page=19, 597.23125pt x 844.15375pt>
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 19>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page19 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 19>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page19 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+File: Sistema_De_Riego_IOT.pdf Graphic file (type pdf)
+<use Sistema_De_Riego_IOT.pdf, page 19>
+Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page19 used on input line 5
+8.
+(pdftex.def)             Requested size: 597.73099pt x 844.86012pt.
+ [86
+
+ <./Sistema_De_Riego_IOT.pdf>]
+Overfull \hbox (22.11432pt too wide) in paragraph at lines 78--79
+[]\OT1/cmr/m/it/10 Conference: 30th In-ter-na-tional Con-fer-ence on Meth-ods a
+nd Mod-els in Au-toma-tion
+ []
+
+<MMAR26_confBiped5b.pdf, id=1009, 614.295pt x 794.97pt>
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf  used on input line 94.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<MMAR26_confBiped5b.pdf, id=1011, page=1, 614.295pt x 794.97pt>
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 1>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 94.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 1>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[87]
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 1>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 1>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 1>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [88
+
+ <./MMAR26_confBiped5b.pdf>]
+<MMAR26_confBiped5b.pdf, id=1040, page=2, 614.295pt x 794.97pt>
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 2>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page2 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 2>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page2 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 2>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page2 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [89
+
+ <./MMAR26_confBiped5b.pdf>]
+<MMAR26_confBiped5b.pdf, id=1077, page=3, 614.295pt x 794.97pt>
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 3>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page3 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 3>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page3 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 3>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page3 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [90
+
+ <./MMAR26_confBiped5b.pdf>]
+<MMAR26_confBiped5b.pdf, id=1104, page=4, 614.295pt x 794.97pt>
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 4>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page4 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 4>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page4 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 4>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page4 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [91
+
+ <./MMAR26_confBiped5b.pdf>]
+<MMAR26_confBiped5b.pdf, id=1113, page=5, 614.295pt x 794.97pt>
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 5>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page5 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 5>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page5 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 5>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page5 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [92
+
+ <./MMAR26_confBiped5b.pdf>]
+<MMAR26_confBiped5b.pdf, id=1134, page=6, 614.295pt x 794.97pt>
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 6>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page6 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 6>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page6 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 6>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page6 used on input line 94.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [93
+
+ <./MMAR26_confBiped5b.pdf>]) (./main.aux (./Sections/1-Title.aux)
+(./Sections/Contenido.aux))
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 2D520217038A4B7E828B562EF9A379E9;4218.
+ ) 
+Here is how much of TeX's memory you used:
+ 41625 strings out of 469453
+ 1001411 string characters out of 5469037
+ 1642946 words of memory out of 5000000
+ 69759 multiletter control sequences out of 15000+600000
+ 630797 words of font info for 50 fonts, out of 8000000 for 9000
+ 40 hyphenation exceptions out of 8191
+ 99i,17n,118p,508b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/
+amsfonts/symbols/msbm10.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhv
+r8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/tex
+mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/ur
+w/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (94 pages, 36580758 bytes).
+PDF statistics:
+ 1213 PDF objects out of 1440 (max. 8388607)
+ 804 compressed objects within 9 object streams
+ 113 named destinations out of 1000 (max. 500000)
+ 706 words of extra memory for PDF output out of 10000 (max. 10000000)
+

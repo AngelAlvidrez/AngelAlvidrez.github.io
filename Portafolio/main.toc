@@ -1,0 +1,17 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{Constancias y Reconocimientos}{2}{section*.2}%
+\contentsline {subsection}{Constancia Verano Científico OAN}{2}{section*.3}%
+\contentsline {subsection}{Constancia Fundamentos de Semiconductores}{3}{section*.4}%
+\contentsline {subsection}{Reconocimiento Como Estudiante Integral}{4}{section*.5}%
+\contentsline {subsection}{Reconocimiento por Impartir conferencia: Realmente Estamos solos en el universo?}{5}{section*.6}%
+\contentsline {subsection}{Reconocimiento por Impartir conferencia: Las muertes del Universo}{6}{section*.7}%
+\contentsline {section}{Proyectos y Prácticas de Ingeniería}{7}{section*.8}%
+\contentsline {subsection}{Bípedo subactuado Basado en un Mecanismo de 5 Barras}{7}{section*.9}%
+\contentsline {subsection}{Actualizacón de la Electrónica de Control de un Telescopio}{23}{section*.10}%
+\contentsline {subsection}{Amplificador de Guitarra mediante Transistores}{24}{section*.11}%
+\contentsline {subsection}{Control de Posición de un carrito con PID}{29}{section*.12}%
+\contentsline {subsection}{Carrito Seguidor de Líneas}{41}{section*.13}%
+\contentsline {subsection}{Encendido y Apagado de un Foco con Aplausos}{52}{section*.14}%
+\contentsline {subsection}{Sistema de Riego IoT (ESP32 + Blynk)}{68}{section*.15}%
+\contentsline {section}{Publicaciones y Trabajos Académicos}{87}{section*.16}%
+\contentsline {subsection}{Artículo en revisión: Kinematic Modelling of Five-Bar Bipedal Locomotion}{87}{section*.18}%

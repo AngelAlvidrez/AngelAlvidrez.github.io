@@ -1,0 +1,17 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{Certificates and Recognitions}{2}{section*.2}%
+\contentsline {subsection}{OAN Scientific Summer Certificate}{2}{section*.3}%
+\contentsline {subsection}{Fundamentals of Semiconductors Certificate}{3}{section*.4}%
+\contentsline {subsection}{Integral Student Recognition}{4}{section*.5}%
+\contentsline {subsection}{Recognition for Giving the Lecture: Are we really alone in the universe?}{5}{section*.6}%
+\contentsline {subsection}{Recognition for Giving the Lecture: The deaths of the Universe}{6}{section*.7}%
+\contentsline {section}{Engineering Projects and Practices}{7}{section*.8}%
+\contentsline {subsection}{Underactuated Biped Based on a 5-Bar Mechanism}{7}{section*.9}%
+\contentsline {subsection}{Telescope Control Electronics Upgrade}{23}{section*.10}%
+\contentsline {subsection}{Transistor-Based Guitar Amplifier}{24}{section*.11}%
+\contentsline {subsection}{PID Position Control of a Cart}{29}{section*.12}%
+\contentsline {subsection}{Line Follower Cart}{41}{section*.13}%
+\contentsline {subsection}{Clap-Activated Light Switch}{52}{section*.14}%
+\contentsline {subsection}{IoT Irrigation System (ESP32 + Blynk)}{68}{section*.15}%
+\contentsline {section}{Publications and Academic Works}{87}{section*.16}%
+\contentsline {subsection}{Article under review: Kinematic Modelling of Five-Bar Bipedal Locomotion}{87}{section*.18}%
