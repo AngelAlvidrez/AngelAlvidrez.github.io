@@ -14,4 +14,5 @@
 \contentsline {subsection}{Encendido y Apagado de un Foco con Aplausos}{52}{section*.14}%
 \contentsline {subsection}{Sistema de Riego IoT (ESP32 + Blynk)}{68}{section*.15}%
 \contentsline {section}{Publicaciones y Trabajos Académicos}{87}{section*.16}%
-\contentsline {subsection}{Artículo en revisión: Kinematic Modelling of Five-Bar Bipedal Locomotion}{87}{section*.18}%
+\contentsline {section}{Publicaciones y Trabajos Académicos}{88}{section*.17}%
+\contentsline {subsection}{Artículo publicado: Kinematic Modelling of Five-Bar Bipedal Locomotion}{88}{section*.19}%

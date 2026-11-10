@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.4.21)  26 APR 2026 19:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026/Arch Linux) (preloaded format=pdflatex 2026.10.21)  10 NOV 2026 07:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2568,132 +2568,146 @@ Package pdftex.def Info: Sistema_De_Riego_IOT.pdf , page19 used on input line 5
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [86
 
- <./Sistema_De_Riego_IOT.pdf>]
-Overfull \hbox (15.26253pt too wide) in paragraph at lines 71--71
-[][]\OT1/cmr/bx/n/12 Art^^S^^Pcu-lo en re-vi-si^^Son: Ki-ne-ma-tic Mo-de-lling 
-of Five-Bar Bi-pe-dal
+ <./Sistema_De_Riego_IOT.pdf>] [87]
+Overfull \hbox (9.54169pt too wide) in paragraph at lines 78--78
+[][]\OT1/cmr/bx/n/12 Art^^S^^Pcu-lo pu-bli-ca-do: Ki-ne-ma-tic Mo-de-lling of F
+ive-Bar Bi-pe-dal
  []
 
 
-Overfull \hbox (10.42172pt too wide) in paragraph at lines 73--74
+Overfull \hbox (10.42172pt too wide) in paragraph at lines 80--81
 []\OT1/cmr/bx/n/10 Kinematic Mo-de-lling of Five-Bar Bi-pe-dal Lo-co-mo-tion: A
 n Analy-ti-cal
  []
 
-
-Overfull \hbox (24.6699pt too wide) in paragraph at lines 79--80
-[]\OT1/cmr/m/it/10 Conferencia: 30th In-ter-na-tio-nal Con-fe-ren-ce on Methods
- and Mo-dels in Au-to-ma-tion
- []
-
-<MMAR26_confBiped5b.pdf, id=1100, 614.295pt x 794.97pt>
+<MMAR26_confBiped5b.pdf, id=1106, 614.295pt x 794.97pt>
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
 <use MMAR26_confBiped5b.pdf>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf  used on input line 98.
+Package pdftex.def Info: MMAR26_confBiped5b.pdf  used on input line 108.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<MMAR26_confBiped5b.pdf, id=1102, page=1, 614.295pt x 794.97pt>
+<MMAR26_confBiped5b.pdf, id=1108, page=1, 614.295pt x 794.97pt>
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
 <use MMAR26_confBiped5b.pdf, page 1>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 98.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 1>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 98.
-(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-[87]
-File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 1>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 98.
-(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 1>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 98.
-(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 1>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 98.
-(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
- [88
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 108.
 
- <./MMAR26_confBiped5b.pdf>]
-<MMAR26_confBiped5b.pdf, id=1131, page=2, 614.295pt x 794.97pt>
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 2>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page2 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 1>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 108.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[88]
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 1>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 2>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page2 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 1>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 2>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page2 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 1>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page1 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [89
 
  <./MMAR26_confBiped5b.pdf>]
-<MMAR26_confBiped5b.pdf, id=1166, page=3, 614.295pt x 794.97pt>
+<MMAR26_confBiped5b.pdf, id=1138, page=2, 614.295pt x 794.97pt>
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 3>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page3 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 2>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page2 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 3>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page3 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 2>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page2 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 3>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page3 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 2>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page2 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [90
 
  <./MMAR26_confBiped5b.pdf>]
-<MMAR26_confBiped5b.pdf, id=1193, page=4, 614.295pt x 794.97pt>
+<MMAR26_confBiped5b.pdf, id=1189, page=3, 614.295pt x 794.97pt>
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 4>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page4 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 3>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page3 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 4>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page4 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 3>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page3 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 4>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page4 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 3>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page3 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [91
 
  <./MMAR26_confBiped5b.pdf>]
-<MMAR26_confBiped5b.pdf, id=1202, page=5, 614.295pt x 794.97pt>
+<MMAR26_confBiped5b.pdf, id=1216, page=4, 614.295pt x 794.97pt>
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 5>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page5 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 4>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page4 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 5>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page5 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 4>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page4 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 5>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page5 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 4>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page4 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [92
 
  <./MMAR26_confBiped5b.pdf>]
-<MMAR26_confBiped5b.pdf, id=1224, page=6, 614.295pt x 794.97pt>
+<MMAR26_confBiped5b.pdf, id=1230, page=5, 614.295pt x 794.97pt>
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 6>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page6 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 5>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page5 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 6>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page6 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 5>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page5 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
-<use MMAR26_confBiped5b.pdf, page 6>
-Package pdftex.def Info: MMAR26_confBiped5b.pdf , page6 used on input line 98.
+<use MMAR26_confBiped5b.pdf, page 5>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page5 used on input line 108.
+
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [93
+
+ <./MMAR26_confBiped5b.pdf>]
+<MMAR26_confBiped5b.pdf, id=1254, page=6, 614.295pt x 794.97pt>
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 6>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page6 used on input line 108.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 6>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page6 used on input line 108.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: MMAR26_confBiped5b.pdf Graphic file (type pdf)
+<use MMAR26_confBiped5b.pdf, page 6>
+Package pdftex.def Info: MMAR26_confBiped5b.pdf , page6 used on input line 108.
+
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [94
 
  <./MMAR26_confBiped5b.pdf>]) (./main.aux (./Sections/1-Title.aux)
 LaTeX Info: Redefining \. on input line 12.
@@ -2704,17 +2718,24 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E273E7D42AD09348646019C9D4BB54D7;4794.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: E273E7D42AD09348646019C9D4BB54D7;4794
+(rerunfilecheck)             After:  866C7E0FCC8BDE8D016BB54FA689B653;5011.
  ) 
 Here is how much of TeX's memory you used:
- 42016 strings out of 469453
- 1006592 string characters out of 5469037
- 1648876 words of memory out of 5000000
- 70150 multiletter control sequences out of 15000+600000
+ 42019 strings out of 469453
+ 1006618 string characters out of 5469036
+ 1648875 words of memory out of 5000000
+ 70151 multiletter control sequences out of 15000+600000
  630797 words of font info for 50 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 99i,17n,118p,521b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,17n,118p,535b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public
@@ -2727,21 +2748,22 @@ s/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msbm10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></
-usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist
-/fonts/type1/urw/symbol/usyr.pfb></usr/share/texmf-dist/fonts/type1/urw/symbol/
-usyr.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/te
-xmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/u
-rw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (94 pages, 38980947 bytes).
+onts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+0.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></u
+sr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-
+dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw
+/symbol/usyr.pfb></usr/share/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/s
+hare/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/t
+ype1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.
+pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (95 pages, 39120772 bytes).
 PDF statistics:
- 1306 PDF objects out of 1440 (max. 8388607)
- 841 compressed objects within 9 object streams
- 113 named destinations out of 1000 (max. 500000)
+ 1341 PDF objects out of 1440 (max. 8388607)
+ 862 compressed objects within 9 object streams
+ 115 named destinations out of 1000 (max. 500000)
  706 words of extra memory for PDF output out of 10000 (max. 10000000)
 
